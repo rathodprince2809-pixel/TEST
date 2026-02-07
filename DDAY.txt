@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Freya Hacked ❤️</title>
+<style>
+body{
+margin:0;
+background:black;
+color:#00ffcc;
+font-family:monospace;
+overflow:hidden;
+}
+
+/* matrix rain */
+canvas{
+position:fixed;
+top:0;
+left:0;
+z-index:-1;
+}
+
+#text{
+text-align:center;
+margin-top:120px;
+font-size:28px;
+color:#00ffcc;
+text-shadow:0 0 15px #00ffcc;
+}
+
+.love{
+font-size:40px;
+color:#ff2e63;
+text-align:center;
+margin-top:40px;
+animation:glow 1.5s infinite alternate;
+}
+
+@keyframes glow{
+from{text-shadow:0 0 10px red;}
+to{text-shadow:0 0 30px pink;}
+}
+</style>
+</head>
+
+<body>
+
+<canvas id="matrix"></canvas>
+
+<div id="text"></div>
+<div class="love">❤️ FREYA'S HEART SUCCESSFULLY HACKED ❤️</div>
+<div class="love">ACCESS: FOREVER LOVE 🔐</div>
